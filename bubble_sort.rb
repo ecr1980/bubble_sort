@@ -1,4 +1,4 @@
-test_array = [4,3,78,2,0,2, 19, 67, 3, 5, 9, 43, 193, 83, 74]
+test_array = [4, 3, 78, 2, 0, 2, 19, 67, 3, 5, 9, 43, 193, 83, 74]
 puts test_array.to_s
 
 def bubble_sort(input_array)
